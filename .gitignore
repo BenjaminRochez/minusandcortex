@@ -5,3 +5,5 @@ build
 .idea/
 .vscode/
 .eslintcache
+.cache
+dist/
